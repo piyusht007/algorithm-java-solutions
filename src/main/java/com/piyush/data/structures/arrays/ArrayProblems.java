@@ -1,4 +1,4 @@
-package com.nice.piyush.data.structures.arrays;
+package com.piyush.data.structures.arrays;
 
 import com.google.common.collect.Maps;
 

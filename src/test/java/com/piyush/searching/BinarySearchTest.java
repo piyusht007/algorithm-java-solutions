@@ -1,4 +1,4 @@
-package com.nice.piyush.searching;
+package com.piyush.searching;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;

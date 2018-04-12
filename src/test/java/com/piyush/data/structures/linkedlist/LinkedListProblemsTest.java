@@ -1,4 +1,4 @@
-package com.nice.piyush.data.structures.linkedlist;
+package com.piyush.data.structures.linkedlist;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

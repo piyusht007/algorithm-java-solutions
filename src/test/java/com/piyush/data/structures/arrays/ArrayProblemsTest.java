@@ -1,4 +1,4 @@
-package com.nice.piyush.data.structures.arrays;
+package com.piyush.data.structures.arrays;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

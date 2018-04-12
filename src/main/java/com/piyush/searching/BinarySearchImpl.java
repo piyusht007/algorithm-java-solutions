@@ -1,4 +1,4 @@
-package com.nice.piyush.searching;
+package com.piyush.searching;
 
 import java.util.ArrayList;
 import java.util.List;

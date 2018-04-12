@@ -1,4 +1,4 @@
-package com.nice.piyush.data.structures.linkedlist;
+package com.piyush.data.structures.linkedlist;
 
 public class LinkedListProblems {
     public static class Node {

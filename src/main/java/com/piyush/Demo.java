@@ -1,4 +1,4 @@
-package com.nice.piyush;
+package com.piyush;
 
 import java.util.stream.Stream;
 
